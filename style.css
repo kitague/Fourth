@@ -1,0 +1,9 @@
+#flag {
+    border: 1px;
+    width:100%
+  }
+#inner {
+    display:table;
+    margin: 0 auto;
+    border: 1px solid black;
+  }
